@@ -1,6 +1,5 @@
 # readmeContracts
 
-
 ![Alt text](vamsi-github.io/Screenshot 2024-10-25 060530.png)
 
 # Vamsi Kethu
@@ -44,27 +43,16 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 - Bridging technology and business strategies
 - Financial technology innovation
 
-## Projects
-- [Data Science & Machine Learning](https://github.com/AgentsInfinite/Data-Science-Machine-Learning)
-- [Generative AI](https://github.com/AgentsInfinite/GenerativeAI)
+## 🔍 Projects
+- 📊 [Applied AI Solutions][ai-solutions]: Production-ready End-to-end  AI solutions spanning neural networks, computer vision, recommendation systems, and ANNS, with both supervised and unsupervised learning applications.
 
-| Repository | Description |
-|------------|-------------|
-| [Data Science & Machine Learning](https://github.com/AgentsInfinite/Data-Science-Machine-Learning) | ML/DS Projects |
-| [Generative AI](https://github.com/AgentsInfinite/GenerativeAI) | GenAI Projects |
+- 🧠 [Generative AI][genai]: Implementation of cutting-edge generative models including large language models, diffusion models, and transformers. Features practical applications in text generation, image synthesis, and conversational AI.
 
-## Projects
-- [Data Science & Machine Learning][ds-ml]
-- [Generative AI][genai]
-
-[ds-ml]: https://github.com/AgentsInfinite/Data-Science-Machine-Learning
+[ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
-Repository containing data science and machine learning projects using Python.
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
 - [AgentsInfinite | AiMegos](https://agentsinfinite.com/)(https://aimegos.com/)
 - [Email](mailto:)
 - [Microsoft Credentials](https://learn.microsoft.com/en-us/users/kethuvamsi-aiml/transcript/v0306i32e25382l)
-
-
