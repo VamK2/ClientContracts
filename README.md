@@ -1,6 +1,7 @@
 # readmeContracts
 
-![Alt text](vamsi-github.io/Screenshot 2024-10-25 060530.png)
+
+Here's the modified README with the requested repositories added:
 
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
@@ -50,6 +51,16 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 
 [ai-solutions]: https://github.com/AgentsInfinite/applied-ai-solutions
 [genai]: https://github.com/AgentsInfinite/GenerativeAI
+
+## 📚 Repositories
+- [microsoft-predictive-ai-lab](https://github.com/VamsiKethu/microsoft-predictive-ai-lab) (Public)
+- [microsoft-azure-ai-predictive-solutions](https://github.com/VamsiKethu/microsoft-azure-ai-predictive-solutions) (Public)
+- [hanumaheavy.agentsInfinite](https://github.com/VamsiKethu/hanumaheavy.agentsInfinite) (Private)
+- [autmavoice.agentsInfinite](https://github.com/VamsiKethu/autmavoice.agentsInfinite) (Private)
+- [automacrew.agentsInfinite](https://github.com/VamsiKethu/automacrew.agentsInfinite) (Private)
+- [automalite.agentsInfinite](https://github.com/VamsiKethu/automalite.agentsInfinite) (Private)
+- [automa.agentsInfinite](https://github.com/VamsiKethu/automa.agentsInfinite) (Private)
+- [readmeContracts](https://github.com/VamsiKethu/readmeContracts) (Public)
 
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/vamsikethu)
