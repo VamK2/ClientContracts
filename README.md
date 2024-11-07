@@ -51,7 +51,7 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 
 ## 🎯 AI and Machine Learning Solutions
 
-### Develop and implement cutting-edge Generative AI solutions to enhance business processes and user experiences across various industries.
+## Develop and implement cutting-edge Generative AI solutions to enhance business processes and user experiences across various industries.
 
 ## Key Responsibilities:
 - ✅ Evaluate and benchmark Generative AI models against industry-specific metrics (Accuracy, Fluency, Coherence, Similarity)
